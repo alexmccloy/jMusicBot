@@ -1,3 +1,7 @@
+This project is a fork of the music bot by jagrosh found here: [https://github.com/jagrosh/MusicBot](https://github.com/jagrosh/MusicBot)
+
+It adds a music trivia game to the bot
+
 <img align="right" src="https://i.imgur.com/zrE80HY.png" height="200" width="200">
 
 # JMusicBot
